@@ -23,7 +23,7 @@ class mycl
 		p1=sc.nextDouble();
 		r1=sc.nextInt();
 		n1=sc.nextInt();
-		System.out.println(p1*n1+p1*n1*(n1+1)/2*r1/100*1/2);
+		System.out.println(p1*n1+p1*n1*(n1+1)/2*r1/100*1/12);
 		break;
 		
 		default:
